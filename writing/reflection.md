@@ -6,7 +6,7 @@ technical writing does not have any mistakes in its formatting, spelling, or
 grammar. Ultimately, you should have a polish document that is suitable for
 publication of your professional web site!
 
-## Add You Name Here
+## Add Your Name Here
 
 ## Program Output
 
